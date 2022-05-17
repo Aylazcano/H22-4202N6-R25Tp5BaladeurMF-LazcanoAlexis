@@ -1,0 +1,2 @@
+# H22-4202N6-R25Tp5BaladeurMF-LazcanoAlexis
+Application simulant un téléphone intelligent capable de lire des fichiers audios de différents formats. Pour des raisons évidentes l’appareil ne lira pas de vrais fichiers audios, mais des fichiers textes, contenant des paroles en remplacement du son. Par conséquent au lieu de jouer de la musique l’appareil obtiendra les paroles des chansons sur demande afin de les afficher. Les formats de fichier audio qui seront simulés sont les suivants : AAC, MP3 et WMA. 
